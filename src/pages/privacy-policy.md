@@ -1,59 +1,61 @@
 ---
 templateKey: default-page
-title: Privacy Policy
-seoTitle: Privacy Policy
-seoDescription: Our Privacy Policy describes everything that we collect in order to keep this website running. If you have an account on this site, or have left comments...
+title: About Us
+seoTitle: About Us
+seoDescription: Our Privacy Policy describes everything that we collect in order
+  to keep this website running. If you have an account on this site, or have
+  left comments...
 schema: ""
+slug: /about/
 ---
+<!--StartFragment-->
 
-## Who we are
+My name is **Peter Jack** and I am an enthusiast of researching how long something will last. I have created this website to help people who are willing to know the shelflife of different kinds of things including foods, gadgets, cars, and much more. We are a team of passionate who are striving to deliver information about how will something last.
 
-Our website address is: [[siteLink]]
+![](/img/peter-jack-150x150.jpg)
 
-## What personal data we collect and why we collect it
+A few years ago, I observed that we often get in situations where we want to know the expiry date of a product like food or even an electronic gadget, but we are often unable to find enough information about it. So I started to research shelflife periods of almost all things from cake to cars. During my research, I have found really amazing facts and information that will help you too to understand the life span of anything.
 
-### Comments
+Here on **[How Long Does Last](https://howlongdoeslast.info/)**, my aim is to deliver each piece of information that I have gathered from experiences. You can find almost everything here.
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+So now whether you want only to get the info of life span’s of these things or you want to make a purchasing decision on the based of shelf life, this site is for you.
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+We are a team and experts and enthusiasts and you can meet our team members below.
 
-### Media
+## Caroline Theodore
 
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+![Caroline Theodore](/img/caroline-theodore-1-150x150.jpg)
 
-## Contact forms
+Caroline Theodore is an author on this website. She is a pharmacist and researching things related to health. She is a hard-working lady and we are proud of her.
 
-### Cookies
+## Delilah Hudson
 
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+![Delilah Hudson](/img/delilah-hudson-1-150x150.jpg)
 
-If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+Delilah Hudson is another writer on this website. She is also a beautician and helps our readers to get information about beauty related things. She is also working as a salon owner.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+## Giovanni Braxton
 
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+![Giovanni Braxton](/img/giovanni-braxton-1-150x150.jpg)
 
-### Embedded content from other websites
+Giovanni Braxton is a sports enthusiast. He is loving playing sports like baseball, football and cricket since his childhood. He has a lot of information about sports-related stuff.
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+## Xavier Emmett
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+![Xavier Emmett](/img/xavier-emmett-1-150x150.jpg)
 
-## Analytics
+Xavier Emmett is a food expert and a chef. He loves to write about food-related stuff and recipes. He is also very passionate about experimenting with ingredients to make something special.
 
-### How long we retain your data
+## Maverick Dominic
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+![Maverick Dominic](/img/maverick-dominic-1-150x150.jpg)
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+Maverick Dominic is a gamer. He is playing games since 2010 and he has won many titles in gaming. He is a die-hard fane of games like Call of duty, Minecraft, PUBG and Counter Strike. He is also writing about games and gaming tips.
 
-## What rights you have over your data
+If you want to know how long does something will last, you can submit your item or food to us.
 
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+Email your questions at: **Howlongdoeslasts@gmail.com**
 
-## Where we send your data
 
-Visitor comments may be checked through an automated spam detection service.
 
-Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy here.
+<!--EndFragment-->
