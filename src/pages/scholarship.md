@@ -1,33 +1,31 @@
 ---
 templateKey: default-page
-title: Our 1000$ Internet Marketing Scholarship
-seoTitle: Our 1000$ Internet Marketing Scholarship
-seoDescription: Finding the best and latest product is hard with a plethora of choices and various categories, it can get complicated. Our website simplifies it by reviewing it for the consumer’s ease.
+title: Disclaimer
+seoTitle: Disclaimer
+seoDescription: f you require any more information or have any questions about
+  our site’s disclaimer, please feel free to contact us by email
+  at Howlongdoeslasts@gmail.com.
 schema: ""
+slug: /disclaimer/
 ---
+<!--StartFragment-->
 
-[[siteName]] is aiming for the best, being the torch bearers in the field of Tech; it is a responsibility that we hold close. We aim to give our share of knowledge in the betterment of society by choosing what is best for the consumers and us.
+If you require any more information or have any questions about our site’s disclaimer, please feel free to contact us by email at **Howlongdoeslasts@gmail.com**.
 
-In digital marketing, words have the power to make and break a product, and we realize the potential of written words. Along with that, we recognize creative writing skills relevance in offline domains.
+## Disclaimers for How Long Does Last
 
-Alas, not all the creative geniuses can expand their horizons in the field of content marketing due to inadequate guidance and exposure, which is a sad reality. However, [[siteName]] comes with a solution; we want to nurture the creative minds and see them blossom in the field of content marketing, in a goal-oriented fashion.
+All the information on this website – **https://howlongdoeslast.info/** – is published in good faith and for general information purposes only. How Long Does Last does not make any warranties about the completeness, reliability, and accuracy of this information? Any action you take upon the information you find on this website (How Long Does Last), is strictly at your own risk. How Long Does Last will not be liable for any losses and/or damages in connection with the use of our website.
 
-The minds that have the passion for exploring the field of ‘Content Marketing’ now have a great opportunity with [[siteName]] Internet Marketing Scholarship for Undergraduate or Postgraduate students. The students who are passionate and show remarkable skills will receive an prize of \$1000.
+From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone ‘bad’.
 
-To receive this prize, you need to be an enthusiast in the field; no kind of expertise is required. Students from multiple backgrounds are highly encouraged to apply!
+Please be also aware that when you leave our website, other sites may have different privacy policies and terms that are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their “Terms of Service” before engaging in any business or uploading any information.
 
-## How To Apply
+## Consent
 
-Students who want to avail of this amazing opportunity should send an application via email to scholarships@[[siteLinkNoProtocol]]. As there are strict rules regarding the application, you must be careful when you are filling the form and make sure that you have provided the following details in the email:
+By using our website, you hereby consent to our disclaimer and agree to its terms.
 
-- Name
-- Date of Birth
-- Phone Number, Mailing Address and any other mean of contact
-- College/University Name
+## Update
 
-Please make sure that you include an essay of 2000-3000 words on “How do you see the recent Tech startups changing global scenarios.”
+Should we update, amend or make any changes to this document, those changes will be prominently posted here.
 
-## Selection Criteria
-
-The Editorial Board will analyze each essay at [[siteName]], who will then select a winner on February 21st, 2020.
-Please note that the Editorial Board has the right to cancel or reject any entries or applications without giving any specific reason.
+<!--EndFragment-->
