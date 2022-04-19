@@ -1,50 +1,33 @@
 ---
 templateKey: default-page
-title: Affiliate Disclosure
-seoTitle: Affiliate Disclosure
-seoDescription: These rules are set in place to ensure that readers or viewers
-  of web media are aware if the blogger or publisher is partnered with
-  organizations.
+title: DMCA Disclosure
+seoTitle: DMCA Disclosure
+seoDescription: At **How Long Does Last**, We take copyright violations very
+  seriously and will vigorously protect the rights of legal copyright owners.
 schema: ""
-slug: ""
+slug: /dmca/
 ---
+<!--StartFragment-->
 
-## FTC Disclosure Compliance Rules
+At **How Long Does Last**, We take copyright violations very seriously and will vigorously protect the rights of legal copyright owners.
 
-In 2015, the Federal Trade Commission released their new rules for Disclosure Compliance.
+If you are the copyright owner of content which appears on our website and you did not authorize the use of the content you must notify us in writing in order for us to identify the allegedly infringing content and take action.
 
-These rules are set in place to ensure that readers or viewers of web media are aware if the blogger or publisher is sponsored, endorsed, or partnered with a different company. The readers need to know if the content publisher is making money by sharing a link or product.
+We will be unable to take any action if you do not provide us with the required information, so if you believe that your material for which you own the copyright has been infringed upon or violated, please provide our Copyright Agent, in writing, with the following information:
 
-In compliance with the FTC guidelines, please assume the following about links and posts on this site:
+1.) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-Any/all of the links on [[siteLink]] are affiliate links for which I receive a small compensation from sales of certain items.
+2.) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
 
-## What Are Affiliate Links?
+3.) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material.
 
-Purchases are made on external affiliate company websites: when a reader clicks on an affiliate link located on [[siteLink]] to purchase an item, the reader buys the item from the seller directly (not from [[siteName]]).
+4.) Information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
 
-Amazon and/or other companies pay [[siteName]] a small commission or other compensation for helping to bring customers to their website.
+5.) A statement that the complaining party has a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
-Prices are exactly the same for readers whether they purchase is through an affiliate link or a non-affiliate link. Clicking an affiliate link and clicking a non-affiliate link does not change the price or anything else for the visitor.
+6.) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-[[siteName]] uses two main types of affiliate programs:
+Written notice should be sent to :\
+**howlongdoeslasts@gmail.com**
 
-## 1. Amazon affiliate links.
-
-[[siteLink]] is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for website owners to earn fees by linking to Amazon.com and affiliated sites, as well as to other websites that may be affiliated with Amazon Service LLC Associates Program.
-
-## 2. Product affiliate links.
-
-If you click a product affiliate link and buy the product, then I will get a percentage of the sale or some other type of compensation.
-
-Again, prices are not different if you use these affiliate links. You will not pay more by clicking through to the link. These links are not “pay per click.”
-
-## What about sponsored content?
-
-I do not write sponsored posts. I want to provide authentic, un-biased information. However, if a company would like to publish sponsored content on [[siteName]], I will disclose this clearly in the beginning of the post.
-
-<p class="small-text">The bottom line is that I only recommend products I use myself or that I would recommend to family and friends.</p>
-
-Your purchase helps support my research efforts. Thank you very, very much! I appreciate you!
-
-_This Disclosure is adapted from BrainProTips._
+<!--EndFragment-->
