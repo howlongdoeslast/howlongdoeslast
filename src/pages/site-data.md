@@ -1,17 +1,17 @@
 ---
 templateKey: site-data
-title: Gaming Dairy
-logoSmall: /img/logo.png
-logoLarge: /img/logo-large.png
+title: How Long Does Last
+logoSmall: /img/how-long-does-last.png
+logoLarge: /img/how-long-does-last.png
 faviconSmall: /img/favicon-16x16.jpg
 faviconLarge: /img/favicon-32x32.jpg
-disqus: protechreviewer-com
-facebook: ""
-youtube: https://www.youtube.com/sitetitle
-twitter: https://www.twitter.com/sitetitle
+disqus: ""
+facebook: https://www.facebook.com/How-Long-Does-Last-108066981749937
+youtube: https://www.youtube.com/channel/UCdSDKQ02ZwC6yH0cduFku4g/about
+twitter: https://twitter.com/howlonglasts
 number: ""
 dmca: true
-dmcaLink: https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=a402cd6b-f9a0-4bd6-9221-3880bf2baff4
+dmcaLink: https://howlongdoeslast.info/dmca/
 linkType: true
 cookies:
   enabled: true
@@ -27,52 +27,60 @@ colors:
   blockBackground: "#3c4758"
   headerBackground: "#71757a"
 topNav:
-  - title: Learning Guides
-    link: /learning-guides/
+  - title: Home
+    link: "#"
+  - title: How Long Does Question
+    link: /how-long-does-cooked-quinoa-last-in-the-fridge/
     child:
-      - title: Miscellaneous
-        link: "#"
+      - title: Food Questions
+        link: /food/
         child:
           - title: Test Post
             link: /sample-post-buying/
           - title: Test Post
             link: /sample-post-buying/
-      - title: Peripherals
-        link: "#"
+      - title: Health Questions
+        link: /health/
         child:
           - title: Test Post
             link: /sample-post-buying/
           - title: Test Post
             link: /sample-post-buying/
-  - title: Buying Guides
-    link: /buying-guides/
-    child:
-      - title: Sample Post News
-        link: /sample-post-buying/
+      - title: Technology Questions
+        link: /technology/
+      - title: Beauty Questions
+        link: /beauty/
+      - title: Sports Questions
+        link: /sports/
+      - title: Vape Questions
+        link: /vape/
+      - title: General Questions
+        link: /general/
+      - title: Games Questions
+        link: /games/
         child: []
-      - title: Sample Post
-        link: /sample-post-buying/
-  - title: News
-    link: /news/
-  - title: Reviews
-    link: /reviews/
+      - title: Automotive Questions
+        link: /automotive/
+      - title: Home Improvement Questions
+        link: /home-improvement/
+      - title: Event Questions
+        link: /event/
+      - title: Relationship Questions
+        link: /relationship/
+      - title: Gifts Questions
+        link: /gifts/
 footerNav:
   - title: About Us
-    link: /about-us/
+    link: /about/
   - title: Contact Us
-    link: /contact-us/
-  - link: /affiliate-disclosure/
-    title: Affiliate Disclosure
-  - title: Terms of Service
-    link: /terms-of-service/
-  - title: Privacy Policy
-    link: /privacy-policy/
+    link: /contact/
+  - link: /dmca/
+    title: DMCA Disclosure
+  - title: Disclaimer
+    link: /disclaimer/
   - title: Sitemap
     link: /sitemap.xml
-nofollow:
-  - /news/
-noindex:
-  - /contact-us/thanks/
-sitemap:
-  - /contact-us/thanks/
+nofollow: []
+noindex: []
+sitemap: []
 ---
