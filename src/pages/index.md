@@ -3,7 +3,8 @@ templateKey: index-page
 seoTitle: Index Title
 seoDescription: Index Description
 categories:
-  - title: Buying Guides
+  - title: Food Questions
+    links: []
 ---
 
 WOW
