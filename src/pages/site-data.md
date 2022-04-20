@@ -12,7 +12,7 @@ twitter: https://twitter.com/howlonglasts
 number: ""
 dmca: true
 dmcaLink: https://howlongdoeslast.info/dmca/
-linkType: true
+linkType: false
 cookies:
   enabled: true
   message: This website uses cookies to enhance the user experience.
