@@ -1,9 +1,10 @@
 ---
 templateKey: index-page
-seoTitle: Index Title
-seoDescription: Index Description
+seoTitle: How Long Does Last? - The Place for All "How Long" Questions
+seoDescription: How Long Does Last? - The Place for All "How Long" Questions
 categories:
-  - title: Buying Guides
+  - title: Food Questions
+    links: []
 ---
 
 WOW
