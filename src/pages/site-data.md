@@ -63,6 +63,12 @@ topNav:
         link: /relationship/
       - title: Gifts Questions
         link: /gifts/
+      - title: Finance Questions
+        link: /finance/
+      - title: Jewelry Questions
+        link: /jewelry/
+      - title: Plant Questions
+        link: /plant/
 footerNav:
   - title: About Us
     link: /about/
