@@ -23,8 +23,8 @@ colors:
   background: "#FFFFFF"
   btnHoverBackground: "#91bbff"
   navbarShadow: "#828282"
-  textColor: "#ffffff"
-  blockBackground: "#3c4758"
+  textColor: "#000000"
+  blockBackground: "#FFFFFF"
   headerBackground: "#71757a"
 topNav:
   - title: Home
