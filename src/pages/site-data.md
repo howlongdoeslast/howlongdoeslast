@@ -20,7 +20,7 @@ colors:
   btnColor: "#ffffff"
   headerTextColor: "#ffffff"
   btnBackground: "#5899fd"
-  background: "#222831"
+  background: "#FFFFFF"
   btnHoverBackground: "#91bbff"
   navbarShadow: "#828282"
   textColor: "#ffffff"
