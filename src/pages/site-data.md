@@ -3,8 +3,8 @@ templateKey: site-data
 title: How Long Does Last
 logoSmall: /img/how-long-does-last.png
 logoLarge: /img/how-long-does-last.png
-faviconSmall: /img/favicon-16x16.jpg
-faviconLarge: /img/favicon-32x32.jpg
+faviconSmall: /img/logo.png
+faviconLarge: /img/logo.png
 disqus: ""
 facebook: https://www.facebook.com/How-Long-Does-Last-108066981749937
 youtube: https://www.youtube.com/channel/UCdSDKQ02ZwC6yH0cduFku4g/about
