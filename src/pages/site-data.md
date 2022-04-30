@@ -26,26 +26,20 @@ colors:
   textColor: "#000000"
   blockBackground: "#FFFFFF"
   headerBackground: "#71757a"
+ads:
+  enableAds: false
 topNav:
   - title: Home
-    link: "#"
-  - title: How Long Does Question
-    link: /how-long-does-cooked-quinoa-last-in-the-fridge/
+    link: https://howlongdoeslast.info/
+  - title: How Long Does Questions
+    link: /#
     child:
       - title: Food Questions
         link: /food/
-        child:
-          - title: Test Post
-            link: /sample-post-buying/
-          - title: Test Post
-            link: /sample-post-buying/
+        child: []
       - title: Health Questions
         link: /health/
-        child:
-          - title: Test Post
-            link: /sample-post-buying/
-          - title: Test Post
-            link: /sample-post-buying/
+        child: []
       - title: Technology Questions
         link: /technology/
       - title: Beauty Questions
