@@ -43,4 +43,6 @@ const BlogInfo = (props) => {
   );
 };
 
-export default (props) => <Location>{(locationProps) => <BlogInfo {...locationProps} {...props} />}</Location>;
+const ExportBlogInfo = (props) => <Location>{(locationProps) => <BlogInfo {...locationProps} {...props} />}</Location>;
+
+export default ExportBlogInfo;

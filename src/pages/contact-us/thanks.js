@@ -3,7 +3,7 @@ import Layout from "../../components/Layout";
 import HeadData from "../../components/HeadData.js";
 import SiteMetaData from "../../components/SiteMetadata.js";
 
-export default () => {
+const Thanks = () => {
   const { title: siteName } = SiteMetaData();
 
   return (
@@ -20,3 +20,5 @@ export default () => {
     </Layout>
   );
 };
+
+export default Thanks;

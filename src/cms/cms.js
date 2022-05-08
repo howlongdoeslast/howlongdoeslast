@@ -184,13 +184,13 @@ const config = {
                       required: false,
                     },
                     {
-                      label: "After first body title",
+                      label: "After first body H2 title",
                       name: "afterTitle",
                       widget: "mdx",
                       required: false,
                     },
                     {
-                      label: "Middle of body",
+                      label: "Body Ad(will appear where ever in bodies you place the <BodyAd />)",
                       name: "insideBody",
                       widget: "mdx",
                       required: false,

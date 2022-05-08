@@ -6,7 +6,7 @@ import HeadData from "../components/HeadData.js";
 import SiteMetaData from "../components/SiteMetadata.js";
 import { ReplaceTitle } from "../components/SimpleFunctions.js";
 
-export const DefaultPageTemplate = ({ title, body, siteName, siteLink }) => {
+const DefaultPageTemplate = ({ title, body, siteName, siteLink }) => {
   const url = new URL(siteLink);
 
   return (

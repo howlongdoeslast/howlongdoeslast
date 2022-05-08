@@ -24,11 +24,11 @@ export const SidebarLatestPosts = () => {
     <div className="posts-sidebar">
       <p>Latest Posts</p>
       <ul>
-        {posts.map((item, index) => (
+        {posts.map(({ fields, frontmatter }, index) => (
           <li key={index}>
             <article itemType="http://schema.org/CreativeWork" itemScope>
-              <Link to={item.fields.slug} rel="bookmark">
-                {item.frontmatter.title}
+              <Link to={`${fields.slug}/`} rel="bookmark">
+                {frontmatter.title}
               </Link>
             </article>
           </li>

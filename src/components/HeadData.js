@@ -70,4 +70,6 @@ const HeadData = (props) => {
   );
 };
 
-export default (props) => <Location>{(locationProps) => <HeadData {...locationProps} {...props} />}</Location>;
+const ExportHeadData = (props) => <Location>{(locationProps) => <HeadData {...locationProps} {...props} />}</Location>;
+
+export default ExportHeadData;

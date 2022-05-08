@@ -18,7 +18,7 @@ import { SidebarLatestPosts, SidebarTableofContents } from "../components/Sideba
 import Search from "../components/SearchForm";
 import { FindCategory, CreateID } from "../components/SimpleFunctions.js";
 
-export const BlogPostTemplate = (props) => {
+const BlogPostTemplate = (props) => {
   const { frontmatter, link, tocdata, body } = props;
   const { title: siteName, ads, disqus } = SiteMetaData();
   const adCodes = ads?.adCodes;
@@ -32,8 +32,9 @@ export const BlogPostTemplate = (props) => {
     title: frontmatter.title,
   };
   const showAds = ads?.enableAds && !ads?.disabledPostsAds?.includes(frontmatter.slug);
+  let showedAd = false;
 
-  const scrollTop = () => {
+  const ScrollTop = () => {
     typeof window !== "undefined" &&
       window.scrollTo({
         top: 0,
@@ -41,17 +42,17 @@ export const BlogPostTemplate = (props) => {
       });
   };
 
-  const backToTop = () => {
+  const BackToTop = () => {
     window.scrollY > 300 ? setBtT("active") : setBtT("");
   };
 
   useEffect(() => {
     if (typeof window !== "undefined") {
-      window.addEventListener("scroll", backToTop);
+      window.addEventListener("scroll", BackToTop);
 
       setTopOffset(contentRef.current.offsetTop + contentRef.current.offsetHeight - 1000);
 
-      return () => window.removeEventListener("scroll", backToTop);
+      return () => window.removeEventListener("scroll", BackToTop);
     }
   }, [frontmatter.tableofcontent]);
 
@@ -77,10 +78,29 @@ export const BlogPostTemplate = (props) => {
     }
   }, []);
 
+  const TitleAd = () => {
+    if (!showedAd) {
+      showedAd = true;
+      return showAds && <div className="ads-title" dangerouslySetInnerHTML={{ __html: adCodes?.afterTitle }} />;
+    }
+    return <></>;
+  };
+
+  const PostComponents = {
+    ...PostComps,
+    BodyAd: () => <BodyAd showAds={showAds} ad={adCodes?.insideBody} />,
+    h2: (props) => (
+      <>
+        <TitleAd />
+        <h2 {...props} />
+      </>
+    ),
+  };
+
   return (
     <>
       <section className="section blog-post">
-        <button onClick={() => scrollTop()} className={`btp ${btT}`}>
+        <button onClick={() => ScrollTop()} className={`btp ${btT}`}>
           <TopArrow />
         </button>
         <div className="container content">
@@ -97,7 +117,7 @@ export const BlogPostTemplate = (props) => {
                 <div className="blog-section-top-inner">
                   <h1 className="title entry-title">{frontmatter.title}</h1>
                   <BlogInfo date={frontmatter.date} disqusConfig={disqusConfig} disqus={disqus} title={frontmatter.title} image={img} />
-                  <MDXProvider components={PostComps}>
+                  <MDXProvider components={PostComponents}>
                     <MDXRenderer>{frontmatter.beforebody}</MDXRenderer>
                   </MDXProvider>
                 </div>
@@ -107,7 +127,7 @@ export const BlogPostTemplate = (props) => {
               {frontmatter.table?.table && frontmatter.table?.title && !!frontmatter.products?.length && <PostComps.PTitle title={frontmatter.table?.title} cName="is-bold is-center" />}
               {frontmatter.table?.table && !!frontmatter.products?.length && <PostComps.ProductsTable products={frontmatter.products} headTitle={frontmatter.table?.headTitle} productColumns={frontmatter.table.productColumns} title={frontmatter.table?.seoTitle} />}
               <div ref={contentRef} className="post-content">
-                <MDXProvider components={PostComps}>
+                <MDXProvider components={PostComponents}>
                   <MDXRenderer>{body}</MDXRenderer>
                 </MDXProvider>
                 {!!frontmatter.products?.length && (
@@ -128,7 +148,7 @@ export const BlogPostTemplate = (props) => {
                 )}
               </div>
               <div className="blog-section-bottom">
-                <MDXProvider components={PostComps}>
+                <MDXProvider components={PostComponents}>
                   <MDXRenderer>{frontmatter.afterbody}</MDXRenderer>
                 </MDXProvider>
               </div>
@@ -277,6 +297,10 @@ BlogPost.propTypes = {
   data: PropTypes.shape({
     mdx: PropTypes.object,
   }),
+};
+
+const BodyAd = ({ showAds, ad }) => {
+  return showAds && <div className="ads-body" dangerouslySetInnerHTML={{ __html: ad }} />;
 };
 
 export default BlogPost;
