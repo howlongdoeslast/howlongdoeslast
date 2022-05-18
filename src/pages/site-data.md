@@ -29,10 +29,7 @@ colors:
 ads:
   enableAds: true
   adCodes:
-    afterToC: >-
-      <script async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4945594057742706"
-           crossorigin="anonymous"></script>
+    afterToC: ""
 topNav:
   - title: Home
     link: https://howlongdoeslast.info/
